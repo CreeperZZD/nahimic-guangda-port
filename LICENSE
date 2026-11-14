@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2026 1876536805@qq.com
+
+---
+
+重要适用范围说明（本说明优先于上述授权）：
+
+本许可仅适用于本仓库中由本项目作者原创的脚本（scripts/ 目录）与文档
+（README.md、docs/ 目录、NOTICE.md）。作者对上述原创内容授予 MIT 许可。
+
+本许可不适用于、也不得被解释为对以下任何内容的授权：
+
+1. A-Volute SAS 及其 Nahimic 产品的任何文件、代码、数据、商标或文档；
+2. Thunderobot（雷神）、COLORFUL（七彩虹）、Realtek（瑞昱）及任何其他
+   第三方的驱动、固件、安装程序、调音数据、商标或文档；
+3. 任何由使用者从第三方渠道获取并放入本仓库工作目录的文件。
+
+本仓库不包含上述第 1、2 类内容。使用者在运行本仓库脚本时所用到的第三方
+文件，其授权范围由该第三方与其权利人之间的许可协议决定，与本仓库无关。
+
+---
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

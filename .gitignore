@@ -1,0 +1,71 @@
+# ============================================================
+#  本仓库只允许提交原创脚本与文档。
+#  以下规则用于防止第三方版权文件被误提交。
+#  如果你有意要提交被下面规则挡住的文件，请先确认你拥有分发权。
+# ============================================================
+
+# --- 第三方二进制：绝对禁止 ---
+*.dll
+*.exe
+*.sys
+*.cat
+*.inf
+*.cab
+*.nsx
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.mui
+*.resources.dll
+
+# --- 安装包与压缩包（可能内含第三方文件）---
+*.zip
+*.7z
+*.rar
+*.iso
+*.msi
+
+# --- 证书与许可文件 ---
+*.cer
+*.pfx
+*.p7b
+*License*.xml
+!LICENSE
+
+# --- 本地工作目录（使用者自己解包的位置）---
+kit/
+kit-ready/
+*-Driver-APO/
+*-Driver-EXT/
+appx/
+appxbundle/
+restoretool/
+extracted/
+
+# --- 运行产物与日志 ---
+*.log
+install-log.txt
+*-report.txt
+*-diff-report.txt
+*-backup.json
+*-fx-backup.txt
+apo-fx-backup.txt
+reg_snapshot_*.txt
+out/
+obj/
+bin/
+
+# --- 探测脚本的输出 ---
+*.tmp
+*.bak
+pending.json
+
+# --- 系统与编辑器 ---
+Thumbs.db
+desktop.ini
+.DS_Store
+.vs/
+.vscode/
+*.user
