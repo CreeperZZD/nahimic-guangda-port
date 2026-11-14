@@ -87,7 +87,7 @@ Nahimic 3 是 A-Volute 开发的音效增强套件，通常由笔记本 OEM 随�
 | 音量稳定器 / 响度均衡 | ✅ | |
 | 低音增强 / 环绕强度 | ✅ | 在立体声端点上是心理声学上混，非真实多声道 |
 | 设备自动识别 | ✅ | 插拔耳机后自动切换配置 |
-| 品牌皮肤 | ⚠️ | App 内显示 **Thunderobot** 品牌（`PKEY_VENDORNAME` 由 EXT 驱动写入），功能无差别 |
+| App 界面品牌 | ✅ | **不显示任何 OEM 品牌**。EXT 驱动写的 `PKEY_VENDORNAME="Thunderobot"` 只落在 Windows 端点属性（`{3B454CDE-…},0`）里，App UI 不读它，界面与原生 Nahimic 3 一致 |
 
 ### 麦克风
 
